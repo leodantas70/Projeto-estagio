@@ -5,6 +5,7 @@ Após rodar o programa basta digitar a data que deseja buscar DD/MM/AAAA e caso 
 
 Requisitos
 
+- Adicionar no arquivo `.py` o caminho para o chromidriver
 - Python3
 - instalação pip3 scrapy,requests
 - Chrome drive (indicando caminho do path)
